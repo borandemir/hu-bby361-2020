@@ -1,0 +1,61 @@
+ Kütüphane Veri Tabanı Analizi
+
+1) Hayata geçirilecek sistem neye hizmet edecek?
+
+Gerçekleştireceğimiz veri tabanı;  bir sinema severin film koleksiyonundaki filmlerin yer aldığı bir kişisel
+veri tabanı oluşturulacaktır.
+
+2) Veri tabanı hangi ihtiyaçları karşılayacak?
+  -İstenilen filmin arşivde olup olmadığı sorgulanabilecektir.
+  -Filme ait künye bilgilerine ulaşım sağlanılabilecek
+  -Yönetmen bilgisi sunulacaktır
+  -Oyuncu kadrosu bilgisi sunulucaktır
+  -Filmin kategorisinin ne olduğu bilgisi sunulacaktır
+  -Yönetmen ve Oyuncu bilgileri bulunacaktır
+  -Arşivdeki film sayısı hakkınfa bilgi sağlanacaktır
+  -Sorgulanmak istenilen filmin konum bilgisi sağlanıcaktır
+  -Vizyon tarihi bilgisi sunulucaktır
+
+
+
+3) Veri tabanında hangi veriler depolanacak?
+  -Film bilgileri
+  -Oyuncu bilgileri
+  -Yönetmen bilgileri
+  -Konum bilgileri
+  -Film kategori bilgileri
+
+
+
+4) Veri tabanında ne tür veriler depolanacak?
+  *Film bilgileri
+   **Film adı
+   **Oyuncu kadrosu
+   **Vizyon tarihi
+   **Yönetmen Adı
+   **Dil
+   **Film Kategori Bilgisi
+  
+  *Oyuncu Bilgileri
+   **Oyuncu Adı
+   **Yaş
+   **Nereli
+   **Başka filmleri
+
+  *Yönetmen Bilgileri
+   **Yönetmen Adı
+   **Yaş
+   **Nereli
+   **Başka filmleri
+   **Yönetmen url
+ 
+  *Konum Bilgileri
+   **Film cd sinin nerede olduğu bilgisi
+ 
+  *Film kategori bilgileri
+   **Film kategorileri nelerdi
+   **Kategorilerin altında film bilgileri
+   
+
+
+
